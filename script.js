@@ -18,9 +18,10 @@ let messenger = 128;
 photo = 254;
 vk = 137;
 youtube = 201;
-console.log(messenger + photo + vk + youtube)
+hour = 60;
+console.log((messenger + photo + vk + youtube) / hour)
 /*Вариант_2*/
-console.log(128 + 254 + 137 + 201)
+console.log((128 + 254 + 137 + 201) / 60)
 //Задание №4
 console.log(2 ** 5)
 //Задание №5
